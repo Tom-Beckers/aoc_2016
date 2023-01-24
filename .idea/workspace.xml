@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0686921-3b79-4139-b406-1d7306c52e1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/biz/tom/day1/Coord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/biz/tom/day1/Day1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/biz/tom/day2/Day2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/biz/tom/day3/Day3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/biz/tom/day4/Day4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/biz/tom/util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day1_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day2_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day2_testInput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day3_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day3_testInput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day4_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/biz/tom/day1/CoordTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KY6bqQiFswB01eVN30v8tVUnWH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_directory_selection": "C:/Users/tbeckers/Documents/aoc/aoc/src/main/java/biz/tom/day1",
+    "last_opened_file_path": "C:/Users/tbeckers/Documents/aoc/aoc"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="biz.tom.day1.coord" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tbeckers\Documents\aoc\aoc" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="biz.tom.day1" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="biz.tom.day1.coord" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0686921-3b79-4139-b406-1d7306c52e1b" name="Changes" comment="" />
+      <created>1674139247473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674139247473</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/biz/tom/day1/Day1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
